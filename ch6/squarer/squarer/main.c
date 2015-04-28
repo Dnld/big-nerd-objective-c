@@ -13,6 +13,8 @@
 
 int main(int argc, const char * argv[])
 {
+    // takes user input, squares input, displays result
+    
     char userInput[MAX_INPUT];
     printf("Hello. Enter number to be squared: ");
     scanf("%s", userInput);
