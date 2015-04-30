@@ -24,7 +24,7 @@ int main(int argc, const char * argv[])
     printf("the size of a pointer is %zu\n", sizeof(int *));
     printf("the size of an int is %zu\n", sizeof(int));
     printf("the size of a float is %zu\n", sizeof(float));
-    printf("the size of a short is %zu\n", sizeof(short)):
+    printf("the size of a short is %zu\n", sizeof(short));
     
     printf("this function starts at %p\n", main);
     
