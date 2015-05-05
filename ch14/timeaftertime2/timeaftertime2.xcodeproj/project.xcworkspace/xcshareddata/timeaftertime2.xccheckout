@@ -5,16 +5,16 @@
 	<key>IDESourceControlProjectFavoriteDictionaryKey</key>
 	<false/>
 	<key>IDESourceControlProjectIdentifier</key>
-	<string>4481DA9F-B65C-460A-80B8-3753746B2E32</string>
+	<string>9185B3E6-B624-4E10-AF68-43679A35345F</string>
 	<key>IDESourceControlProjectName</key>
-	<string>timeaftertime</string>
+	<string>timeaftertime2</string>
 	<key>IDESourceControlProjectOriginsDictionary</key>
 	<dict>
 		<key>6E083DCBB7CEBD3BC1AA690A8A4957EE0603DA07</key>
 		<string>github.com:Dnld/big-nerd-objective-c.git</string>
 	</dict>
 	<key>IDESourceControlProjectPath</key>
-	<string>ch13/timeaftertime/timeaftertime.xcodeproj</string>
+	<string>ch14/timeaftertime2/timeaftertime2.xcodeproj</string>
 	<key>IDESourceControlProjectRelativeInstallPathDictionary</key>
 	<dict>
 		<key>6E083DCBB7CEBD3BC1AA690A8A4957EE0603DA07</key>
