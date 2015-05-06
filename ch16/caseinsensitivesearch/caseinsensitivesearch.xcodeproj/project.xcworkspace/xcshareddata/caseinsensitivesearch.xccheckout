@@ -5,16 +5,16 @@
 	<key>IDESourceControlProjectFavoriteDictionaryKey</key>
 	<false/>
 	<key>IDESourceControlProjectIdentifier</key>
-	<string>20B08AAA-019C-45C0-88A3-63AD95EDA550</string>
+	<string>5625D2DC-5F0A-46E8-91CB-0490B140F654</string>
 	<key>IDESourceControlProjectName</key>
-	<string>timestwo</string>
+	<string>project</string>
 	<key>IDESourceControlProjectOriginsDictionary</key>
 	<dict>
 		<key>6E083DCBB7CEBD3BC1AA690A8A4957EE0603DA07</key>
 		<string>github.com:Dnld/big-nerd-objective-c.git</string>
 	</dict>
 	<key>IDESourceControlProjectPath</key>
-	<string>ch15/timestwo/timestwo.xcodeproj</string>
+	<string>ch16/caseinsensitivesearch/caseinsensitivesearch.xcodeproj/project.xcworkspace</string>
 	<key>IDESourceControlProjectRelativeInstallPathDictionary</key>
 	<dict>
 		<key>6E083DCBB7CEBD3BC1AA690A8A4957EE0603DA07</key>
