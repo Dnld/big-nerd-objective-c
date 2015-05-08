@@ -5,16 +5,16 @@
 	<key>IDESourceControlProjectFavoriteDictionaryKey</key>
 	<false/>
 	<key>IDESourceControlProjectIdentifier</key>
-	<string>4658C722-A006-40A2-9764-E1594DCD3445</string>
+	<string>2E690DB9-F8A1-459B-A76C-A699EFA9A521</string>
 	<key>IDESourceControlProjectName</key>
-	<string>namesandwords</string>
+	<string>project</string>
 	<key>IDESourceControlProjectOriginsDictionary</key>
 	<dict>
 		<key>6E083DCBB7CEBD3BC1AA690A8A4957EE0603DA07</key>
 		<string>github.com:Dnld/big-nerd-objective-c.git</string>
 	</dict>
 	<key>IDESourceControlProjectPath</key>
-	<string>ch17/namesandwords/namesandwords.xcodeproj</string>
+	<string>ch18/stocks/stocks.xcodeproj/project.xcworkspace</string>
 	<key>IDESourceControlProjectRelativeInstallPathDictionary</key>
 	<dict>
 		<key>6E083DCBB7CEBD3BC1AA690A8A4957EE0603DA07</key>
