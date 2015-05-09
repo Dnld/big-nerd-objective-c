@@ -9,6 +9,17 @@
 #import "BNRPortfolio.h"
 #import "BNRStockHolding.h"
 
+// class extension
+@interface BNRPortfolio ()
+
+{
+    NSMutableArray *_holdings;
+}
+
+@end
+
+
+// class implementation
 @implementation BNRPortfolio
 
 - (NSArray *)holdings {

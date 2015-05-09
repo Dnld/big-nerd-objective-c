@@ -11,10 +11,6 @@
 
 @interface BNRPortfolio : NSObject
 
-{
-    NSMutableArray *_holdings;
-}
-
 @property (nonatomic) NSString *label;
 @property (nonatomic, copy) NSArray *holdings;
 
