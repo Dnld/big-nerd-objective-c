@@ -20,6 +20,7 @@
 
 - (void)portfolioSummary;
 - (void)addStock:(BNRStockHolding *)s;
+- (void)removeStockWithTicker:(NSString *)t;
 - (float)portfolioValueInDollars;
 
 @end

@@ -22,6 +22,15 @@
     [_holdings addObject:s];
 }
 
+- (void)removeStockWithTicker:(NSString *)t {
+    for (BNRStockHolding *s in _holdings) {
+        if ([s.ticker isEqualToString:t]) {
+            [_holdings removeObject:s];
+            return;
+        }
+    }
+}
+
 - (float)portfolioValueInDollars {
     float sum = 0.00;
     for (BNRStockHolding *s in _holdings) {

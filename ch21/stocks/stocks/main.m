@@ -39,6 +39,17 @@ int main(int argc, const char * argv[])
         cisco.ticker = @"t";
         [myStocks addStock:cisco];
         
+        BNRStockHolding *remove = [[BNRStockHolding alloc] init];
+        remove.numberOfShares = 1;
+        remove.purchasedSharePrice = 1.00;
+        remove.currentSharePrice = 2.00;
+        remove.ticker = @"r";
+        [myStocks addStock:remove];
+        
+        [myStocks portfolioSummary];
+        
+        [myStocks removeStockWithTicker:@"r"];
+        
         [myStocks portfolioSummary];
     
     }
