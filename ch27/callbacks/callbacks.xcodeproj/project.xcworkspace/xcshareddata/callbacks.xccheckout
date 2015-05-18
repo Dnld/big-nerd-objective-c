@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>IDESourceControlProjectFavoriteDictionaryKey</key>
+	<false/>
+	<key>IDESourceControlProjectIdentifier</key>
+	<string>EAB453F4-4823-4C64-A6FB-B28015C185C6</string>
+	<key>IDESourceControlProjectName</key>
+	<string>project</string>
+	<key>IDESourceControlProjectOriginsDictionary</key>
+	<dict>
+		<key>6E083DCBB7CEBD3BC1AA690A8A4957EE0603DA07</key>
+		<string>github.com:Dnld/big-nerd-objective-c.git</string>
+	</dict>
+	<key>IDESourceControlProjectPath</key>
+	<string>ch27/callbacks/callbacks.xcodeproj/project.xcworkspace</string>
+	<key>IDESourceControlProjectRelativeInstallPathDictionary</key>
+	<dict>
+		<key>6E083DCBB7CEBD3BC1AA690A8A4957EE0603DA07</key>
+		<string>../../../..</string>
+	</dict>
+	<key>IDESourceControlProjectURL</key>
+	<string>github.com:Dnld/big-nerd-objective-c.git</string>
+	<key>IDESourceControlProjectVersion</key>
+	<integer>111</integer>
+	<key>IDESourceControlProjectWCCIdentifier</key>
+	<string>6E083DCBB7CEBD3BC1AA690A8A4957EE0603DA07</string>
+	<key>IDESourceControlProjectWCConfigurations</key>
+	<array>
+		<dict>
+			<key>IDESourceControlRepositoryExtensionIdentifierKey</key>
+			<string>public.vcs.git</string>
+			<key>IDESourceControlWCCIdentifierKey</key>
+			<string>6E083DCBB7CEBD3BC1AA690A8A4957EE0603DA07</string>
+			<key>IDESourceControlWCCName</key>
+			<string>bignerdobjectivec</string>
+		</dict>
+	</array>
+</dict>
+</plist>
