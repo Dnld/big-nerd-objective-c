@@ -5,16 +5,16 @@
 	<key>IDESourceControlProjectFavoriteDictionaryKey</key>
 	<false/>
 	<key>IDESourceControlProjectIdentifier</key>
-	<string>88CDFE13-9BF9-4C65-8735-1A99D3F49097</string>
+	<string>81E97A2C-2FED-4906-9EF4-8F556B1221B4</string>
 	<key>IDESourceControlProjectName</key>
-	<string>vowelmovement</string>
+	<string>stockz</string>
 	<key>IDESourceControlProjectOriginsDictionary</key>
 	<dict>
 		<key>6E083DCBB7CEBD3BC1AA690A8A4957EE0603DA07</key>
 		<string>github.com:Dnld/big-nerd-objective-c.git</string>
 	</dict>
 	<key>IDESourceControlProjectPath</key>
-	<string>ch28/vowelmovement/vowelmovement.xcodeproj</string>
+	<string>ch30/stockz/stockz.xcodeproj</string>
 	<key>IDESourceControlProjectRelativeInstallPathDictionary</key>
 	<dict>
 		<key>6E083DCBB7CEBD3BC1AA690A8A4957EE0603DA07</key>

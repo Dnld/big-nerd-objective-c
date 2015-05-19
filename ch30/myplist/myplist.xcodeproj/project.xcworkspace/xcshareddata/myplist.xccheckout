@@ -5,16 +5,16 @@
 	<key>IDESourceControlProjectFavoriteDictionaryKey</key>
 	<false/>
 	<key>IDESourceControlProjectIdentifier</key>
-	<string>88CDFE13-9BF9-4C65-8735-1A99D3F49097</string>
+	<string>F6913148-BBFA-46FE-BD9D-1C2B58F1EB24</string>
 	<key>IDESourceControlProjectName</key>
-	<string>vowelmovement</string>
+	<string>project</string>
 	<key>IDESourceControlProjectOriginsDictionary</key>
 	<dict>
 		<key>6E083DCBB7CEBD3BC1AA690A8A4957EE0603DA07</key>
 		<string>github.com:Dnld/big-nerd-objective-c.git</string>
 	</dict>
 	<key>IDESourceControlProjectPath</key>
-	<string>ch28/vowelmovement/vowelmovement.xcodeproj</string>
+	<string>ch30/myplist/myplist.xcodeproj/project.xcworkspace</string>
 	<key>IDESourceControlProjectRelativeInstallPathDictionary</key>
 	<dict>
 		<key>6E083DCBB7CEBD3BC1AA690A8A4957EE0603DA07</key>
